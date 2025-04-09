@@ -1,8 +1,12 @@
 import {
 	default as Illustrator1Img,
+} from "../../../assets/images/v2/security.png";
+import {
 	default as Illustrator2Img,
+} from "../../../assets/images/v2/company.png";
+import {
 	default as Illustrator3Img,
-} from "../../../assets/images/v2/illustrator1.png";
+} from "../../../assets/images/v2/technology.png";
 import Shape2Img from "../../../assets/images/v2/shape2.png";
 import FadeInStagger from "../../animation/FadeInStagger";
 import FeatureCard from "./FeatureCard";

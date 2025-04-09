@@ -29,10 +29,10 @@ export const menuItemsData = [
 		},
 	  ],
 	},
-	{
-	  title: "Projects",
-	  url: "/projects",
-	},
+	// {
+	//   title: "Projects",
+	//   url: "/projects",
+	// },
 	{
 	  title: "Careers",
 	  url: "/careers",

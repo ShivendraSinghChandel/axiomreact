@@ -33,13 +33,13 @@ function Header() {
 							<NavItem url="home-two">Home</NavItem>
 							<NavItem url="about-us">About</NavItem>
 							<NavItem url="service">Services</NavItem>
-							<NavItem url="portfolio-two">Projects</NavItem>
+							{/* <NavItem url="portfolio-two">Projects</NavItem> */}
 							<NavItem url="career">Careers</NavItem>
 							<NavItem url="contact-us">Contact</NavItem>
 						</DesktopNav>
 					</div>
 					<HeaderButton />
-					<MobileNavbar menuItemsData={menuItemsData} title="Aximo" />
+					<MobileNavbar menuItemsData={menuItemsData} title="IBI Group" />
 				</nav>
 			</div>
 		</header>
