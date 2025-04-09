@@ -30,12 +30,12 @@ function Header() {
 					<HeaderLogo />
 					<div className="menu-block-wrapper">
 						<DesktopNav>
-							<NavItem url="home-two">Home</NavItem>
-							<NavItem url="about-us">About</NavItem>
-							<NavItem url="service">Services</NavItem>
-							<NavItem url="portfolio-two">Projects</NavItem>
-							<NavItem url="career">Careers</NavItem>
-							<NavItem url="contact-us">Contact</NavItem>
+							<NavItem url="#">Home</NavItem>
+							<NavItem url="#">About</NavItem>
+							<NavItem url="#">Services</NavItem>
+							<NavItem url="#">Projects</NavItem>
+							<NavItem url="#">Careers</NavItem>
+							<NavItem url="#">Contact</NavItem>
 						</DesktopNav>
 					</div>
 					<HeaderButton />

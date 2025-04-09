@@ -9,21 +9,21 @@ import FeatureCard from "./FeatureCard";
 const featuresData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Reduce Uncertainty",
+		title: "physical security",
 		description:
 			"By adopting and implementing strategies, we not only help survive but also thrive in the face of uncertainty.",
 		img: Illustrator1Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Innovative Ideas",
+		title: "facility management",
 		description:
 			"Our aim is to disrupt existing industries or create entirely new ones with our talents and innovative business ideas.",
 		img: Illustrator2Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Growth Focus",
+		title: "AI Integrated Security",
 		description:
 			"Growth is a central objective for us. We’ve also a strong emphasis on rapid growth and scaling business growth.",
 		img: Illustrator3Img,
