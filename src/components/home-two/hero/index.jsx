@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { FadeInStaggerTwo, FadeInStaggerTwoChildren } from "../../animation/FadeInStaggerTwo";
-import BgImage from "../../../assets/images/about/group.jpg"; // React-compatible path
+import BgImage from "../../../assets/images/about/mumbai.jpg"; // React-compatible path
 
 function Hero() {
 	return (
