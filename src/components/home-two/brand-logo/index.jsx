@@ -61,7 +61,7 @@ function BrandLogo() {
 
 			{/* Title */}
 			<div className="aximo-brandlogo-title">
-				<h3>Some of Our Clients</h3>
+				<h3 style={{color:"white"}}>Some of Our Clients</h3>
 			</div>
 
 			{/* Slider */}
