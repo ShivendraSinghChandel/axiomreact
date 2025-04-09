@@ -7,10 +7,10 @@ function Pricing() {
 	return (
 		<>
 			<BreadCrumb title="Pricing" />
-			<PricingPlan />
+			{/* <PricingPlan />
 			<Testimonial />
 			<AutoSlider />
-			<PricingFaq />
+			<PricingFaq /> */}
 		</>
 	);
 }

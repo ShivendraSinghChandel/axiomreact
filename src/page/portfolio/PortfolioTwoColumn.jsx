@@ -4,7 +4,7 @@ function PortfolioTwoColumn() {
 	return (
 		<>
 			<BreadCrumb title="Portfolio Two Column" />
-			<PortfolioList />
+			{/* <PortfolioList /> */}
 		</>
 	);
 }

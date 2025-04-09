@@ -5,7 +5,7 @@ function SingleService() {
 	return (
 		<>
 			<BreadCrumb title="Service Details" />
-			<ServiceDetails />
+			{/* <ServiceDetails /> */}
 			<Testimonial />
 		</>
 	);
